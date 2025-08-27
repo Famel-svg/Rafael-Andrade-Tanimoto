@@ -69,7 +69,7 @@
 ## 🤝 Conecte-se comigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/rafaeltanimoto" target="_blank">
+  <a href="www.linkedin.com/in/rafaeltanimoto">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <!-- Adicione outros links relevantes, como e-mail, portfólio, etc. -->
@@ -79,4 +79,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 </p>
